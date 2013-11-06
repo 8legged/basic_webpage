@@ -16,6 +16,9 @@
 /tmp
 
 # Ignore other unneeded files.
+*.png
+*.jpg
+*.jpeg
 database.yml
 doc/
 *.swp
